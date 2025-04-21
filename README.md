@@ -1,5 +1,5 @@
 
-```markdown
+
 # Projeto IA - Assistente Dinâmico
 
 Este é um projeto de assistente de IA dinâmico que responde a perguntas de forma clara e objetiva, utilizando Markdown para formatar as respostas. Ele suporta exibição em tempo real, semelhante ao ChatGPT.
@@ -148,4 +148,3 @@ Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT). Si
 
 ---
 
-Com este `README.md`, você terá uma documentação clara e organizada para o seu projeto. Certifique-se de ajustar os detalhes, como o link do repositório, conforme necessário.
